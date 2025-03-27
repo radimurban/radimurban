@@ -1,4 +1,4 @@
-Hey, I'm Radim - Computer Science undergrad at [ETH Zurich](https://www.ethz.ch)🇨🇭 
+Hey, I'm Radim - Computer Science graduate at [ETH Zurich](https://www.ethz.ch)🇨🇭 
 
 I'm mainly interested in Deep Learning and Software Engineering.
 
